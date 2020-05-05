@@ -16,7 +16,7 @@ Code has Four Parts, FILE I/O, Validation Check for probability, Huffman Code Al
 2. Probability Cannot be lower than 0
 
 ## 3. Huffman Code Algorithm
-1. Check 3 case
+> 1. Check 3 case
 >>> 1-1. Both Two minimum probability node don't have root
 
 >>> 1-2. Either Two minimum probability have root or not
