@@ -1,0 +1,2 @@
+# HuffManCoding
+MATLAB
