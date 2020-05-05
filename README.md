@@ -1,2 +1,2 @@
-# HuffManCoding
+# HuffMan_Coding
 MATLAB
